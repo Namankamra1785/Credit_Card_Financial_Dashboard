@@ -1,5 +1,6 @@
 # Credit_Card_Financial_Dashboard
 Power Bi dashboard
+
 1.Developed an interactive dashboard using transaction and consumer data from a SQL database to prove real-time insights.
 
 2.Streamlined data processing & analysis to monitor key performances metrics and trends.
